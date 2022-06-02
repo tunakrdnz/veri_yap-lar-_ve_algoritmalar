@@ -1,2 +1,2 @@
-# veri_yap-lar-_ve_algoritmalar
+# veri_yapilari_ve_algoritmalar
 Patika.dev modül sonu sorting projeleri!
